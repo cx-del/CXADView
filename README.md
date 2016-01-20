@@ -5,7 +5,9 @@
 ##用法：
 ###1、如果你用的是SB或者XIB 需要调用 
 ```objective-c
-- (void)setImageUrls:(NSArray<NSString *> *)imageUrls pageControlStyle:(UIPageControlStyle )pageControlStyle CXADViewBlock:(CXADViewBlock)block;
+- (void)setImageUrls:(NSArray<NSString *> *)imageUrls 
+    pageControlStyle:(UIPageControlStyle )pageControlStyle 
+       CXADViewBlock:(CXADViewBlock)block;
 ```
 来设置图片名称 pageControl类型等属性，回调采用Block；
 
