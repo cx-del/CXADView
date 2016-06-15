@@ -1,6 +1,6 @@
 //
 //  CXADView.h
-//  CXADView
+//  常用Category
 //
 //  Created by Ming on 16/1/12.
 //  Copyright © 2016年 戴晨惜. All rights reserved.
