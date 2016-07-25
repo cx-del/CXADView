@@ -108,7 +108,7 @@ CGFloat KPageControlHeight = 20.f; /**<- pageControl 高度*/
     self.imageUrls = imageUrls;
     self.pageControlStyle = pageControlStyle;
     if (block) {
-        self.block = block;//我就加了一行注释纯粹为了练习git
+        self.block = block;
     }
 }
 
