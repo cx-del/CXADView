@@ -18,4 +18,4 @@
               pageControlStyle:(UIPageControlStyle )pageControlStyle
                  CXADViewBlock:(CXADViewBlock)block;
 ```
-来设置图片Rect、名称、pageControl类型等属性，回调同样采用Block；hi
+来设置图片Rect、名称、pageControl类型等属性，回调同样采用Block；
